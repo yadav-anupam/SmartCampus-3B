@@ -1,0 +1,6 @@
+{
+  "name": "SmartCampus - AI-Assisted Campus Energy Management System",
+  "description": "Prototype smart campus energy monitoring, analytics, and decision-support platform designed for Smart Systems Solution Design (Assignment 3A).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
